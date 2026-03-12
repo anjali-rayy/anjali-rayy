@@ -1,10 +1,16 @@
-<img src="banner.png.jpeg" width="100%">
+<p align="center">
+  <img src="banner.png.jpeg" width="100%" />
+</p>
 
 # Hi 👋 I'm Anjali Ray
 
-💻 Web Development Enthusiast  
-🚀 Passionate about building real-world applications  
-🌱 Currently learning Full Stack Development  
+🎓 Computer Science Student  
+💻 Passionate about Web Development  
+🚀 Building real-world projects and learning every day
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F78C6C&center=true&width=600&lines=Computer+Science+Student;Web+Developer;Learning+AI+%26+Full+Stack)](https://git.io/typing-svg)
+
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjali-rayy&show_icons=true&theme=tokyonight)
 
 ---
 
