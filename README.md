@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=220&section=header&text=Welcome%20to%20Anjali%27s%20Code%20Space&fontSize=38&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anjali%20Ray%20|%20Web%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 # Hi 👋 I'm Anjali Ray
 
