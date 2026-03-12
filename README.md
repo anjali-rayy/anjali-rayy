@@ -7,7 +7,7 @@
 - Computer Science student passionate about Web Development and creative problem-solving
 - Currently exploring Full Stack Development, AI, and practical product building
 - Building real-world projects and learning continuously
-- Reach me at: yourmail@gmail.com
+- Reach me at: rayanjali2802@gmail.com
 
 ## 🌐 Connect with Me
 
