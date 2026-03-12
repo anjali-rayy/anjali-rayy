@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6b8e4e,100:1e3a8a&height=200&section=header&text=Anjali%20Ray&fontSize=40&fontColor=ffffff)
+
 # Hi 👋 I'm Anjali Ray
 
 💻 Web Development Enthusiast  
@@ -41,6 +43,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-rayy&layout=compact&theme=radical)
 
 ---
+
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=anjali-rayy&theme=react-dark)
+
+![visitors](https://komarev.com/ghpvc/?username=anjali-rayy&color=blue)
 
 ## 🌐 Connect With Me
 
