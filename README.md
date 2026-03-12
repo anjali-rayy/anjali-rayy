@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anjali%20Ray%20|%20Web%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<img src="banner.png" width="100%">
 
 # Hi 👋 I'm Anjali Ray
 
