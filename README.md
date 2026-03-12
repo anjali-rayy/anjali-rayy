@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6b8e4e,100:1e3a8a&height=200&section=header&text=Anjali%20Ray&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:ff7eb3,100:65d6ce&height=200&section=header&text=Anjali%20Ray%20👩‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 # Hi 👋 I'm Anjali Ray
 
