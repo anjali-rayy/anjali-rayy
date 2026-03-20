@@ -44,8 +44,8 @@
 
 - **Scribly** — writing and content-focused web platform
 - **LMS Learn** — learning management system for students
-- **Weather Analysis** — weather data analysis and visualization
 - **Casa Trip** — travel and trip planning platform
+- **Weather Analysis** — weather data analysis and visualization
 
 ## 📊 My Stats
 
