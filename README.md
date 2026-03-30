@@ -6,18 +6,18 @@
 <h3 align="center">Computer Science Student | Web Developer | Building Real-World Projects</h3>
 
 <p align="center">
-  Passionate about Web Development, AI, and creative problem-solving
+  Passionate about building scalable web applications, solving real-world problems, and exploring AI-driven solutions.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science student with a strong interest in technology and innovation  
-- 💻 Passionate about Web Development, Full Stack Development, and AI  
-- 🚀 Love building useful, creative, and real-world digital products  
-- 📚 Always learning new tools, technologies, and practical skills  
-- 📫 Reach me at: **rayanjali2802@gmail.com**
+- 🎓 Final-year Computer Science student  
+- 💻 Skilled in Web Development (Frontend + Backend basics)  
+- 🚀 Currently building real-world projects like AI Career Guidance Platform  
+- 🧠 Interested in AI, ML, and Data-driven applications  
+- 📚 Continuous learner with strong problem-solving mindset  
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -63,18 +63,35 @@
 
 ## 🚀 Featured Projects
 
-- **Scribly** — Writing and content-focused web platform  
-- **LMS Learn** — Learning management system for students  
-- **Casa Trip** — Travel and trip planning platform  
-- **Weather Analysis** — Weather data analysis and visualization  
+### 🔹 PathwayAI (Capstone Project)
+AI-powered career guidance and job matching platform  
+- Skill analysis & career recommendation  
+- Interactive quiz-based system  
+- Personalized career insights  
+
+---
+
+### 🔹 Chitchatly
+Anonymous real-time chat platform  
+- Secure & private chat experience  
+- No data storage system  
+- Real-time messaging  
+
+---
+
+### 🔹 LMS Learn
+Learning management system for students  
+- Course tracking  
+- Student dashboard  
+- Content management  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjali-rayy&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-rayy&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anjali-rayy&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anjali-rayy&layout=compact&theme=radical" height="165" />
 </p>
 
 <p align="center">
@@ -83,4 +100,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anjali-rayy&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  <i>"Building real-world solutions with code, creativity, and consistency."</i>
 </p>
