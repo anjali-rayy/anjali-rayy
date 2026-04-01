@@ -63,23 +63,23 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 PathwayAI (Capstone Project)
-AI-powered career guidance and job matching platform  
-- Skill analysis & career recommendation  
-- Interactive quiz-based system  
-- Personalized career insights  
+### 🔹 Casatrip  
+Travel and booking platform  
+- Easy trip planning & booking system  
+- User-friendly interface for seamless experience  
+- Focus on accessibility and convenience  
 
 ---
 
-### 🔹 Chitchatly
-Anonymous real-time chat platform  
-- Secure & private chat experience  
-- No data storage system  
-- Real-time messaging  
+### 🔹 Scribly  
+Content creation and writing platform  
+- Helps users create structured content  
+- Focus on simplicity and productivity  
+- Clean and intuitive writing interface  
 
 ---
 
-### 🔹 LMS Learn
+### 🔹 LMS Learn  
 Learning management system for students  
 - Course tracking  
 - Student dashboard  
