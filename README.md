@@ -85,6 +85,9 @@ Travel stay listing app with interactive location maps.
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-rayy&theme=react-dark" />
+</p>
 
 <p align="center">
   <i>"Building real-world solutions with code, creativity, and consistency."</i>
