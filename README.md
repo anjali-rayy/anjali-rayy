@@ -2,23 +2,13 @@
   <img src="banner.png.jpeg" width="100%" height="350" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Anjali Ray</h1>
-<h3 align="center">Computer Science Student | Web Developer | Building Real-World Projects</h3>
+<h1 align="center">Anjali Ray</h1>
+<h3 align="center">Full-Stack Developer · Go Backend · AI-Integrated Tools</h3>
 
 <p align="center">
 Full-stack developer building web apps and Go backend systems.<br/>
 Currently exploring AI-integrated tools and systems that ship fast.
 </p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Final-year Computer Science student  
-- 💻 Skilled in Web Development (Frontend + Backend basics)  
-- 🚀 Currently building real-world projects like AI Career Guidance Platform  
-- 🧠 Interested in AI, ML, and Data-driven applications  
-- 📚 Continuous learner with strong problem-solving mindset  
 
 ---
 
@@ -44,21 +34,18 @@ Currently exploring AI-integrated tools and systems that ship fast.
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 ---
@@ -74,7 +61,7 @@ Full-stack image analysis tool built in **Go** — detects blur, exposure, noise
 
 ---
 
-### ✍️ [Scribly](https://github.com/anjali-rayy/Scribly) · [Live Demo](#)
+### ✍️ [Scribly](https://github.com/anjali-rayy/Scribly)
 Blogging platform inspired by Medium with tag-based post recommendations.
 - Firebase auth, Firestore real-time DB & React Context API for global state
 - Tag-based engine that suggests posts based on reading history
@@ -97,17 +84,7 @@ Travel stay listing app with interactive location maps.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anjali-rayy&layout=compact&theme=radical" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-rayy&theme=react-dark" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjali-rayy&color=blue&style=for-the-badge" />
-</p>
-
 ---
-
-## ✨ Quote
 
 <p align="center">
   <i>"Building real-world solutions with code, creativity, and consistency."</i>
